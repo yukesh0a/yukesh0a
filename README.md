@@ -6,10 +6,11 @@ I'm Yukesh, a web developer from Kathmandu, Nepal.
 - I’m currently improving my skills on typescript, nestjs and system design.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Java, etc...
+- 👨‍💻 TypeScript, Java, etc...
 - ⚙️ React, Nextjs, Nestjs
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, MongoDb, Postgres
+- 🛫 Docker, Nx, AWS, Azure DevOps
+- 💽 MySQL, MongoDb, PostgresSQL, TypeORM, etc...
 + a lot more
 
 ## Contact
